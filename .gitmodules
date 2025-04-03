@@ -1,0 +1,6 @@
+[submodule "PyDP"]
+	path = PyDP
+	url = https://github.com/OpenMined/PyDP.git
+[submodule "breaching"]
+	path = breaching
+	url = https://github.com/JonasGeiping/breaching.git
