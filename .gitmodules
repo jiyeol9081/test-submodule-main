@@ -4,3 +4,6 @@
 [submodule "breaching"]
 	path = breaching
 	url = https://github.com/JonasGeiping/breaching.git
+[submodule "HyperFL"]
+	path = HyperFL
+	url = https://github.com/Pengxin-Guo/HyperFL.git
